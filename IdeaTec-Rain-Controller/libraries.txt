@@ -1,0 +1,18 @@
+# Bibliotecas necessárias para o Sistema IoT de Monitoramento de Enchentes
+# Este arquivo especifica as dependências do projeto
+
+# Biblioteca para comunicação WiFi (incluída no ESP32)
+WiFi
+
+# Biblioteca para comunicação MQTT
+PubSubClient
+
+# Biblioteca para manipulação de JSON
+ArduinoJson
+
+# Bibliotecas do sistema ESP32 (incluídas automaticamente)
+# - Wire (para comunicação I2C)
+# - SPI (para comunicação SPI)
+# - EEPROM (para armazenamento persistente)
+
+thinger.io
