@@ -1,7 +1,5 @@
 # 🌊 Sistema IoT de Monitoramento de Enchentes Urbanas
 
-[![FIAP Global Solution 2025](https://img.shields.io/badge/FIAP-Global%20Solutiontps://img.shields.io/badge/ESP32-Compatibleimg.shields.io/badge/Platformmg.shieldsdice
-
 ## 🎯 Descrição do Projeto
 
 O **Sistema IoT de Monitoramento de Enchentes Urbanas** é uma solução inovadora desenvolvida para a **FIAP Global Solution 2025** que visa prevenir desastres causados por enchentes em áreas urbanas através do monitoramento em tempo real dos níveis de água.
